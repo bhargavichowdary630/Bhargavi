@@ -82,7 +82,7 @@ export const capabilitiesConfig: CapabilitiesConfig = {
     {
       title: "Transaction Monitoring",
       slug: "transaction-monitoring",
-      description: "Real-time monitoring on Fiserv fraud detection platforms, reviewing high-velocity payment channels. Building daily and weekly fraud reports in SQL and Excel covering alert volumes, fraud loss, and emerging typologies.",
+      description: "Real-time monitoring on JPMorgan Chase & Co. fraud detection platforms, reviewing high-velocity payment channels. Building daily and weekly fraud reports in SQL and Excel covering alert volumes, fraud loss, and emerging typologies.",
       image: "images/capability-2.jpg",
     },
     {
@@ -140,7 +140,7 @@ export const capabilityDetailConfig: CapabilityDetailConfig = {
       title: "Transaction Monitoring & Alert Management",
       subtitle: "Real-time surveillance of high-velocity payment flows with precision.",
       paragraphs: [
-        "Transaction monitoring is the frontline defense in modern financial crime prevention. At Fiserv, I operate enterprise-grade fraud detection platforms to surveil real-time card, ACH, debit, and merchant transactions. The high-velocity environment demands both speed and accuracy in alert triage and investigation.",
+        "Transaction monitoring is the frontline defense in modern financial crime prevention. At JPMorgan Chase & Co., I operate enterprise-grade fraud detection platforms to surveil real-time card, ACH, debit, and merchant transactions. The high-velocity environment demands both speed and accuracy in alert triage and investigation.",
         "My daily workflow involves reviewing thousands of system-generated alerts, each requiring rapid risk assessment. I analyze transaction velocity, geolocation mismatches, device fingerprints, merchant risk profiles, and historical spending patterns to make informed decisions on case disposition.",
         "Beyond operational monitoring, I build comprehensive reporting infrastructure. Using SQL and Excel, I create daily and weekly fraud reports covering alert volumes, fraud loss metrics, dispute outcomes, and emerging threat typologies. These insights are surfaced directly to compliance and operations leadership to inform strategic decision-making.",
         "I partner closely with AML and Compliance teams to ensure all investigations align with BSA/AML, OFAC, and internal fraud-policy controls. This cross-functional collaboration ensures that SAR-relevant cases receive proper documentation and escalation through regulatory channels.",
