@@ -4,8 +4,8 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🔗_Live_Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=e94560&labelColor=1a1a2e)](https://bhargavichowdary630.github.io/Bhargavi)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://linkedin.com/in/bhargavi-nimmagadda)
+[![Portfolio](https://img.shields.io/badge/🔗_Live_Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=e94560&labelColor=1a1a2e)](https://bhargavi-n.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/bhargavi-chowdary-96ab14403)
 [![Email](https://img.shields.io/badge/📧_Email-e94560?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:bhargavinchowdary@gmail.com)
 
 <br>
@@ -184,7 +184,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/📧_Email-e94560?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:bhargavinchowdary@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://linkedin.com/in/bhargavi-nimmagadda)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/bhargavi-chowdary-96ab14403)
 [![Phone](https://img.shields.io/badge/📱_Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0a0a0a)](tel:+12674071988)
 
 <br>
