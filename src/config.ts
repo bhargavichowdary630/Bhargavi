@@ -325,7 +325,7 @@ export const footerConfig: FooterConfig = {
   ],
   copyright: "\u00A9 2026 Bhargavi Nimmagadda. All rights reserved.",
   bottomLinks: [
-    { label: "LinkedIn", href: "#" },
+    { label: "LinkedIn", href: "https://www.linkedin.com/in/bhargavi-chowdary-96ab14403" },
     { label: "Resume", href: "#" },
   ],
 };
