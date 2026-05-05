@@ -130,7 +130,7 @@ export const capabilityDetailConfig: CapabilityDetailConfig = {
       title: "Fraud Detection & Risk Management",
       subtitle: "Proactive defense against financial crime across payment channels.",
       paragraphs: [
-        "With 3+ years of hands-on experience in fraud detection, I have developed deep expertise in identifying and mitigating financial crime across card, ACH, debit, and wire payment channels. At Fiserv, I monitor real-time transactions on enterprise fraud detection platforms, reviewing over 10,000 transactions weekly to identify anomalous patterns and potential fraud events.",
+        "With 3+ years of hands-on experience in fraud detection, I have developed deep expertise in identifying and mitigating financial crime across card, ACH, debit, and wire payment channels. At JPMorgan Chase & Co., I monitor real-time transactions on enterprise fraud detection platforms, reviewing over 10,000 transactions weekly to identify anomalous patterns and potential fraud events.",
         "My investigative approach combines automated alert triage with manual deep-dive analysis. I examine account takeovers, identity misuse, device anomalies, and abnormal spending behaviors to build comprehensive evidence packages for Tier-2 escalation. This systematic methodology has contributed to measurable reductions in false-positive alert volumes.",
         "In the chargeback and dispute management domain, I validate customer identity and account ownership using KYC data, transaction history, IP intelligence, and behavioral signals. I compile evidence packages aligned to Visa, Mastercard, and Reg E timelines, supporting representments and improving win rates on disputed transactions.",
         "My risk scoring expertise extends beyond operational execution into strategic improvement. I identify recurring fraud patterns and recommend rule and threshold enhancements to fraud strategy teams, directly contributing to reduced analyst review time and strengthened fraud-loss controls.",
@@ -150,7 +150,7 @@ export const capabilityDetailConfig: CapabilityDetailConfig = {
       title: "KYC / AML Compliance & Regulatory Frameworks",
       subtitle: "End-to-end customer due diligence aligned with global regulatory standards.",
       paragraphs: [
-        "Know Your Customer (KYC) and Anti-Money Laundering (AML) compliance form the foundation of financial integrity. At Genpact, supporting HDFC Bank's operations, I performed KYC verification for over 100 retail and corporate banking customers daily, reviewing government IDs, address proofs, and beneficial-ownership documentation in strict adherence to RBI and AML guidelines.",
+        "Know Your Customer (KYC) and Anti-Money Laundering (AML) compliance form the foundation of financial integrity. At Goldman Sachs, supporting global banking operations, I performed KYC verification for over 100 retail and corporate banking customers daily, reviewing government IDs, address proofs, and beneficial-ownership documentation in strict adherence to RBI and AML guidelines.",
         "My due diligence work spans the full risk spectrum. I conducted Customer Due Diligence (CDD) and Enhanced Due Diligence (EDD) on higher-risk profiles, including Politically Exposed Persons (PEPs) and customers triggering sanctions or watchlist hits. Suspicious cases were meticulously documented and escalated to AML specialists with structured case write-ups.",
         "Sanctions and watchlist screening is a critical component of my compliance expertise. I have hands-on experience with OFAC screening, adverse media monitoring, and PEP identification. This work directly supports regulatory reporting obligations under BSA/AML and FinCEN frameworks.",
         "Quality and process improvement are integral to my compliance approach. I improved verification accuracy through process documentation and SOP refinement, contributing to higher first-pass quality scores in internal QC audits. I also collaborated with onboarding, remediation, and compliance teams to clear backlogs and meet regulatory turnaround times.",
@@ -184,7 +184,7 @@ export const architectureConfig: ArchitectureConfig = {
   sectionLabel: "Professional Experience",
   videoPath: "",
   title: "From Hyderabad to Wall Street — building fraud expertise across two continents.",
-  description: "My career spans global banking operations at Genpact (HDFC Bank process) and U.S. fintech fraud detection at Fiserv. This cross-continental experience gives me unique perspective on both emerging-market regulatory frameworks and high-velocity U.S. payment fraud. I hold an MS in Information Systems from Wilmington University and a BTech in Electronics & Communication Engineering, combining technical depth with domain expertise in financial crime prevention.",
+  description: "My career spans global banking operations at Goldman Sachs and U.S. fintech fraud detection at JPMorgan Chase & Co.. This cross-continental experience gives me unique perspective on both emerging-market regulatory frameworks and high-velocity U.S. payment fraud. I hold an MS in Information Systems from Wilmington University and a BTech in Electronics & Communication Engineering, combining technical depth with domain expertise in financial crime prevention.",
 };
 
 // ============================================================
